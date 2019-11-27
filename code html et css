@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="l.css" />
+        <meta charset="utf-8" />
+        <title>Titre</title>
+    </head>
+
+    <body>
+        <h1>Salut les gas</h1>
+        <p>
+            <ol>
+                <li>sabry</li>
+                <li>sabry</li>
+                <li>sabry</li>
+            </ol>
+        </p>
+
+    </body>
+</html>
